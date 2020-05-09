@@ -2,10 +2,11 @@ This is the folder to use for testing the 12 videos given by the professor.
 This file contains:
 1. weights of the models
 2. test.py files for part-6 and part-8
+3. output graphs folder, where the timelabel graphs are stored after running the test.py files.
 
 Checking results:
 1. Download all the contents of the file in a folder.
-2. Download the json files of all the videos from drive link and put them in the same folder : 
+2. Download the json files of all the videos from drive link put them in a folder 'test' and put this folderin the same folder as all these files : 
    https://drive.google.com/open?id=1V2rDHhaWM64NVWmGqF_ntv0bylmVgQqQ
-2. Run the test.py files on anaconda prompt which has installed tensorflow.
-3. after running the 2 test files you can find the ouptut time label graphs in the graphs folder.
+3. Run the test.py files on anaconda prompt which has installed tensorflow.
+4. after running the 2 test files you can find the ouptut time label graphs in the graphs folder.
