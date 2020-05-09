@@ -1,0 +1,10 @@
+This is the folder to use for testing the 12 videos given by the professor.
+This file contains:
+1. json files of all the 12 videos.
+2. weights of the models
+3. test.py files for part-6 and part-8
+
+Checking results:
+1. Download all the contents of the file in a folder.
+2. Run the test.py files on anaconda prompt which has installed tensorflow.
+3. after running the 2 test files you can find the ouptut time label graphs in the graphs folder.
